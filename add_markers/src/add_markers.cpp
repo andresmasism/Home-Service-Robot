@@ -101,6 +101,5 @@ int main( int argc, char** argv )
     marker_pub.publish(marker);
     sleep(5);
 
-    return 0;
-  
+    return 0;  
 }
